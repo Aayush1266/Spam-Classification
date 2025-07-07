@@ -29,3 +29,9 @@ This project demonstrates the fine-tuning of a pre-trained GPT-2 model (124M par
 - NumPy, Pandas
 - Custom BPE tokenizer (no Hugging Face used)
 - Pretrained weights: OpenAI GPT-2 (124M)
+
+## Citation
+Based on materials and code from:
+
+Sebastian Raschka, LLMs-from-Scratch
+🔗 https://github.com/rasbt/LLMs-from-scratch
